@@ -16,9 +16,9 @@ Java / Spring Boot 学習の一環として開発中の Web アプリケーシ�
 ## ⚙️ 使用技術
 
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.4.4
 - Thymeleaf
-- MySQL / H2（開発環境）
+- MySQL（開発環境）
 - Git / GitHub
 
 ---
@@ -34,12 +34,12 @@ Java / Spring Boot 学習の一環として開発中の Web アプリケーシ�
 
 ## 👤 Author
 
-**aki-9711（Akihito）**  
+**aki-9711**  
 元PM → バックエンドエンジニアへ転向中  
 将来はチームで価値あるプロダクトをつくりたい！
 
 GitHub: [https://github.com/aki-9711](https://github.com/aki-9711)  
-Twitter: [@AkihitoDev（仮）]
+Twitter: [@aki_dev9711]
 
 ---
 
