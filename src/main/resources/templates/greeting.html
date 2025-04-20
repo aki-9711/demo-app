@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>こんにちは！</title>
+</head>
+<body>
+  <h1 th:text="'こんにちは、' + ${userName} + 'さん！'">こんにちは！</h1>
+  <p th:text="'あなたの名前は' + ${userName} + 'ですね！'"></p>
+  <p th:text="'あなたの年齢は' + ${age} + 'ですね！'"></p>
+  <p th:text="'メールアドレスは' + ${email} + 'で登録されました。'"></p>
+</body>
+</html>
